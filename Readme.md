@@ -21,3 +21,10 @@
 Задание выполнено в двух вариантах: 
 1. Запрос таблицы по API Confluence, парсинг HTML и сохранение в Google-таблицу без форматирования.
 2. Сохранение формулы в Google-таблицу.
+
+## Результат
+
+[Google-таблицa](https://docs.google.com/spreadsheets/d/19yimGlxzvTzFAzAf6WmdFSrKpuWvRFFVPDRTteGC8Rw/edit#gid=0)
+
+* [Лист1](https://docs.google.com/spreadsheets/d/19yimGlxzvTzFAzAf6WmdFSrKpuWvRFFVPDRTteGC8Rw/edit#gid=0) соответствует варианту 1
+* [Лист2](https://docs.google.com/spreadsheets/d/19yimGlxzvTzFAzAf6WmdFSrKpuWvRFFVPDRTteGC8Rw/edit#gid=1854544084) - варианту 2 
